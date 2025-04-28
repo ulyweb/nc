@@ -1,6 +1,6 @@
 # nc
 
-##Nextcloud AiO INFO
+## Nextcloud AiO INFO
 
 #
 Requirement before starting, make sure you have install Docker and VSCode
